@@ -16,6 +16,7 @@ O projeto foi feito com essas 3 tecnologias.
 - [x] Html
 - [x] Css
 - [x] ScrollTrigger
+- [x] JavaScript
 
 ##  desenvolvedor
 
